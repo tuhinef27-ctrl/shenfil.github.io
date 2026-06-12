@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Football Hub</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>⚽ Football Hub</h1>
+<p>Latest Football News & Match Updates</p>
+</header>
+
+<section class="hero">
+<h2>World Football Center</h2>
+<p>News, Scores, Teams & More</p>
+</section>
+
+<section class="matches">
+<h2>Today's Matches</h2>
+
+<div class="card">
+<h3>Argentina vs Brazil</h3>
+<p>Kickoff: 20:00 UTC</p>
+</div>
+
+<div class="card">
+<h3>France vs Spain</h3>
+<p>Kickoff: 22:00 UTC</p>
+</div>
+
+</section>
+
+<section class="news">
+<h2>Latest News</h2>
+
+<div class="card">
+<h3>Transfer Market Update</h3>
+<p>Latest football transfer rumors and confirmed deals.</p>
+</div>
+
+<div class="card">
+<h3>World Cup Preparation</h3>
+<p>National teams begin training camps.</p>
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 Football Hub</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
